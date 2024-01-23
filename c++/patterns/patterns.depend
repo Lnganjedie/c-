@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1705472603 source:c:\users\dell\desktop\c++\patterns\main.cpp
+	<iostream>
+
+1705473407 source:c:\users\dell\desktop\c++\patterns\hollowpattern.cpp
+	<iostream>
+
